@@ -1,6 +1,6 @@
 - 👋
 - 👀 I’m interested in data science and C++
--- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by hmd.sakhawath@gmail.com
 
 <!---
